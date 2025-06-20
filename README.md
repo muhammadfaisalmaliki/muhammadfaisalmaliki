@@ -10,13 +10,8 @@
 
 💞️ I’m looking for opportunities to collaborate on interesting web or mobile development projects, especially those involving technologies such as HTML, CSS, JavaScript, PHP, Laravel, ReactJS, and Flutter.
 
-📫 You can reach me via email: faisall2maliki@gmail.com or Instagram: ical.malek.
+📫 You can reach me via email: m.faisal.maliki02@gmail.com or Instagram: ical.malek
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I truly love everything related to IT and am always excited to learn new technologies.
-
-<!---
-muhammadfaisalmaliki/muhammadfaisalmaliki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
