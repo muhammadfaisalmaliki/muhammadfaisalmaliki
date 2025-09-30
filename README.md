@@ -11,7 +11,7 @@
 - 🏫 I am a student at **SMK Wikrama Bogor**.  
 - 📍 I am from **Depok** and was born in **Jakarta on February 20, 2006**.  
 - 💞️ I’m looking for opportunities to collaborate on **web or mobile development projects**, especially with **HTML, CSS, JavaScript, PHP, Laravel, ReactJS, and Flutter**.  
-- 📫 Reach me at **[m.faisal.maliki02@gmail.com](mailto:m.faisal.maliki02@gmail.com)** or Instagram: [ical.malek](https://instagram.com/ical.malek).  
+- 📫 Reach me at **[m.faisal.maliki02@gmail.com](mailto:macaa201224@gmail.com)** or Instagram: [ical.malek](https://instagram.com/ical.malek).  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I truly love everything related to IT and am always excited to learn new technologies.  
 
@@ -27,8 +27,3 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ---
-
-### 📬 Connect with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/muhammad-faisal-maliki-454b54387/)/in/username) : Muhammad Faisal Maliki
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ical.malek)
