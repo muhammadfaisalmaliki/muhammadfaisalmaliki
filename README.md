@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 Top Projects:
-- [Portfolio Website](#)
-- [School Project - PPDB SMK Wikrama](#)
-- [Mobile App with Flutter](#)
-
----
-
 ### 📬 Connect with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/username)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ical.malek)
-
-l
