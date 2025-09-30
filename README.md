@@ -29,5 +29,5 @@
 ---
 
 ### 📬 Connect with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/username)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/muhammad-faisal-maliki-454b54387/)/in/username)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ical.malek)
